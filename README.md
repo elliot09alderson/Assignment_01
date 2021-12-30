@@ -1,7 +1,7 @@
 requirements :
 
-*needs node js to be installed
-*vs code or any code editor
+* needs node js to be installed
+* vs code or any code editor
 
 usage : 
 unzip the rar file and paste it to a suitable directory 
