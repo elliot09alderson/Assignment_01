@@ -1,0 +1,21 @@
+
+-------------------------------Paste this links in postman ---------------------------------
+
+for fetching all Products -- GET : http://localhost:4000/api/v1/product/readAll
+
+for Creating a Product -- POST : http://localhost:4000/api/v1/product/create
+
+for fetching Product details -- GET : http://localhost:4000/api/v1/product/${id}
+
+for Deleting the product -- DELETE : http://localhost:4000/api/v1/product/delete/${id}
+
+for Updating the Product -- PUT : http://localhost:4000/api/v1/product/update/${id}
+
+//${id} = id of product
+
+Here middleware is used for Error Handling to save the repetition of code and to Apply the DRY principle
+Unfortunately category should not be fetched properly
+
+
+
+
